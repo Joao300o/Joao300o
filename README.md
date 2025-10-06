@@ -3,7 +3,7 @@
 
 
 ### 📖 What I'm Learning
-- I'm currently learning C# and Unity.  
+- I'm currently learning C#, Unity, Trello, Figma.  
 
 - I'm taking a technical course at SENAI.
 
