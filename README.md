@@ -2,15 +2,17 @@
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
 
+### 📖 What I'm Learning
+- I'm currently learning C# and Unity.  
 
-- 📖 I'm currently learning on **C# and Unity**
+- I'm taking a technical course at SENAI.
 
-- I'm taking a technical course at **SENAI**
-  
+
 ### 💬 Languages
 - 🇧🇷 Portuguese (native)
 - 🇺🇸 English (intermediate)
-  
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jota.vgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jota.vgs" height="30" width="40" /></a>
