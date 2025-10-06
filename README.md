@@ -24,5 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joao300o&show_icons=true&theme=dark&locale=en" alt="joao300o" /></p>
 
 ### ✉️ Get in Touch
-Wanna chat or collaborate?  
-📧 [joaogaeww@gmail.com](mailto:joaogaeww@gmail.com)
+Reach me at: **joaogaeww [at] gmail.com**
+
