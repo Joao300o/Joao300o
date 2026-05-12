@@ -10,7 +10,7 @@
 
 ### 💬 Languages
 - 🇧🇷 Portuguese (native)
-- 🇺🇸 English (intermediate)
+- 🇺🇸 English (A2 - B1)
 
 
 <h3 align="left">Connect with me:</h3>
