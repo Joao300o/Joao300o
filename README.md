@@ -23,5 +23,5 @@
 
 
 ### ✉️ Get in Touch
-Reach me at: **joaogaeww [at] gmail.com**
+Reach me at: **joaovitor.gs.dev [at] gmail.com**
 
